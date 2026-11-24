@@ -1,0 +1,7 @@
+node_modules
+.next
+research
+qa
+test-results
+package-lock.json
+public
